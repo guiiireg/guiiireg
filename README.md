@@ -1,10 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=650&lines=Bonjour,+je+suis+Guiregnael;D%C3%A9veloppeur+Full-Stack;Passionn%C3%A9+Backend+%26+DevOps;Cr%C3%A9ateur+de+contenu+tech">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0969DA&background=FFFFFF&center=true&vCenter=true&width=650&lines=Bonjour,+je+suis+Guiregnael;D%C3%A9veloppeur+Full-Stack;Passionn%C3%A9+Backend+%26+DevOps;Cr%C3%A9ateur+de+contenu+tech">
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=650&lines=Bonjour,+je+suis+Guiregnael;D%C3%A9veloppeur+Full-Stack;Passionn%C3%A9+Backend+%26+DevOps;Cr%C3%A9ateur+de+contenu+tech">
-    </picture>
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=650&lines=Bonjour,+je+suis+Guiregnael;D%C3%A9veloppeur+Full-Stack;Passionn%C3%A9+Backend+%26+DevOps;Cr%C3%A9ateur+de+contenu+tech">
   </a>
 
   <p>
@@ -64,10 +60,6 @@ Passionné et autonome, ma démarche se distingue par une progression logique : 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guiiireg&theme=transparent&show_icons=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guiiireg&theme=default&show_icons=true&hide_border=true&bg_color=FFFFFF">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guiiireg&theme=transparent&show_icons=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff">
-    </picture>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guiiireg&theme=transparent&show_icons=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff">
   </a>
 </div>
