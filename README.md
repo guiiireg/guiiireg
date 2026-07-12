@@ -1,34 +1,73 @@
-# 💫 About Me: Guireg
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=650&lines=Bonjour,+je+suis+Guiregnael;D%C3%A9veloppeur+Full-Stack;Passionn%C3%A9+Backend+%26+DevOps;Cr%C3%A9ateur+de+contenu+tech">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0969DA&background=FFFFFF&center=true&vCenter=true&width=650&lines=Bonjour,+je+suis+Guiregnael;D%C3%A9veloppeur+Full-Stack;Passionn%C3%A9+Backend+%26+DevOps;Cr%C3%A9ateur+de+contenu+tech">
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=650&lines=Bonjour,+je+suis+Guiregnael;D%C3%A9veloppeur+Full-Stack;Passionn%C3%A9+Backend+%26+DevOps;Cr%C3%A9ateur+de+contenu+tech">
+    </picture>
+  </a>
 
-I am a Software Engineering student currently seeking a 1-year work-study program (Alternance) starting in September 2026. My core expertise lies in building modern, performant web applications using the **React / Next.js** ecosystem, while maintaining a strong foundation in low-level programming (C) and system architecture.
-
-### 🎥 Why is my commit graph quiet?
-I have adopted a faceless content creation strategy, meaning **the vast majority of my coding, architectural planning, and debugging is done live on YouTube**. I currently stream my development sessions (4 to 8 hours daily) entirely in English, teaching and building alongside a growing community of developers. Rather than pushing micro-commits offline, I focus on shipping features and explaining complex logic live.
-
-Currently building:
-*   🚀 **Learn Code**: A full-stack educational platform built with Next.js & TypeScript.
-*   🧠 **MemAlloc**: A custom memory manager (`malloc`, `free`) built from scratch in C with rigorous TDD (Criterion).
-
-## 🌐 Connect with my community:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@exon9858) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Exo0on) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guireg-nael/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guiregnael.pro@gmail.com) 
-
-## 💻 Tech Stack & Workflow:
-**Frontend & Web:**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-**Backend & Core:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-
-**Tools & Environment:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  <p>
+    <b>Développeur Full-Stack</b><br>
+    <i>Créateur de contenu tech sur YouTube | Amoureux de l'écosystème Linux</i>
+  </p>
+</div>
 
 ---
-*Building robust software and a developer community, one live stream at a time.*
+
+### À propos de moi
+
+Passionné et autonome, ma démarche se distingue par une progression logique : j'ai solidifié mes bases avec du développement "from scratch" avant de monter en compétence sur des frameworks modernes comme **Laravel** ou **React**. Mon approche du développement est rigoureuse : je mets un point d'honneur à livrer des applications testées, proprement conteneurisées et performantes.
+
+- J'évolue sous environnement **Linux** (Fedora) au quotidien, me plaçant directement dans l'écosystème serveur standard du web.
+- Je mène une veille technologique active que je partage sur ma **chaîne YouTube** dédiée au développement.
+
+---
+
+### Stack Technique
+
+<table>
+  <tr>
+    <td align="center" width="120">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel" /></a><br>
+        <b>Backend</b>
+    </td>
+    <td align="center" width="120">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,react" /></a><br>
+        <b>Frontend</b>
+    </td>
+    <td align="center" width="120">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,sqlite" /></a><br>
+        <b>Données</b>
+    </td>
+    <td align="center" width="160">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,bash" /></a><br>
+        <b>DevOps & OS</b>
+    </td>
+  </tr>
+</table>
+
+**Outils & Méthodologie :**  
+<br/>
+![PHPUnit](https://img.shields.io/badge/PHPUnit-4F5B93?style=for-the-badge&logo=phpunit&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+---
+
+### Statistiques & Activité
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guiiireg&theme=transparent&show_icons=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guiiireg&theme=default&show_icons=true&hide_border=true&bg_color=FFFFFF">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guiiireg&theme=transparent&show_icons=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff">
+    </picture>
+  </a>
+</div>
