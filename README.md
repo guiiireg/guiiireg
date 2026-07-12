@@ -59,7 +59,7 @@ Passionné et autonome, ma démarche se distingue par une progression logique : 
 ### Statistiques & Activité
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guiiireg&theme=transparent&show_icons=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=guiiireg&theme=transparent&show_icons=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff">
   </a>
 </div>
