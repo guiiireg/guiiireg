@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi, I'm Guireg
+# Hi, I'm Guireg 👋
 
-### Full-Stack Developer · Software Engineering · Linux
+### Full-Stack & Mobile Developer · Software Engineering · Linux
 
-[![GitHub](https://img.shields.io/badge/GitHub-guiiireg-181717?style=for-the-badge\&logo=github)](https://github.com/guiiireg)
-[![YouTube](https://img.shields.io/badge/YouTube-Exon-FF0000?style=for-the-badge\&logo=youtube)](https://www.youtube.com/@exon9858)
+[![GitHub](https://img.shields.io/badge/GitHub-guiiireg-181717?style=for-the-badge&logo=github)](https://github.com/guiiireg)
+[![YouTube](https://img.shields.io/badge/YouTube-Exon-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@exon9858)
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+TypeScript;C%23+%7C+.NET+%7C+C;Linux+%7C+Docker+%7C+Git" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Laravel+%7C+React+%7C+TypeScript;Flutter+%7C+Dart+%7C+C%23+%7C+.NET;Linux+%7C+Docker+%7C+Git" alt="Typing SVG">
 
 </div>
 
@@ -25,22 +25,21 @@
 
 ## About
 
-I'm a software development student interested in building applications and understanding how they work underneath.
+I'm a software development student interested in building full-stack and mobile applications while understanding how software works underneath.
 
-I mainly work with **Laravel, React, TypeScript, C#/.NET, PHP, and C**. I'm also interested in lower-level programming, memory management, software architecture, databases, and Linux.
+I mainly work with **Laravel, React, Flutter, TypeScript, C#/.NET, PHP, and Java**. I'm also interested in software architecture, databases, APIs, and Linux environments.
 
-I use **Fedora Linux** as my main development environment and prefer learning by building projects and experimenting with different approaches.
+I use **Fedora Linux** as my main development environment and prefer learning by building practical projects.
 
 <details>
 <summary><b>What I'm currently working on</b></summary>
 
 <br>
 
-* Building full-stack applications with **Laravel, React, TypeScript, and .NET**
-* Learning more about **C, memory management, data structures, and low-level programming**
-* Improving my understanding of **APIs, databases, architecture, testing, and deployment**
+* Building full-stack & mobile applications with **Laravel, React, Flutter, TypeScript, and .NET**
+* Improving my understanding of **REST APIs, databases, architecture, testing, and deployment**
 * Working on personal projects to experiment with technologies outside of school
-* Sharing some of my development work and learning process on YouTube
+* Sharing part of my development work and learning process on **[YouTube](https://www.youtube.com/@exon9858)**
 
 </details>
 
@@ -52,11 +51,11 @@ I use **Fedora Linux** as my main development environment and prefer learning by
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,php,js,ts,html,css" alt="Programming languages">
+<img src="https://skillicons.dev/icons?i=cs,java,php,flutter,dart,js,ts,html,css" alt="Programming languages">
 
-### Frameworks & Runtime
+### Frameworks & Runtimes
 
-<img src="https://skillicons.dev/icons?i=laravel,react,dotnet,vite" alt="Frameworks and runtimes">
+<img src="https://skillicons.dev/icons?i=laravel,react,flutter,dotnet,vite" alt="Frameworks and runtimes">
 
 ### Databases
 
@@ -72,12 +71,12 @@ I use **Fedora Linux** as my main development environment and prefer learning by
 
 <div align="center">
 
-![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![C](https://img.shields.io/badge/C-Language-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -85,76 +84,39 @@ I use **Fedora Linux** as my main development environment and prefer learning by
 
 ## Engineering Interests
 
-I'm particularly interested in the parts of development that are easy to hide behind frameworks.
-
-Some of the subjects I've worked with:
+I'm particularly interested in software architecture and modern full-stack / mobile application development.
 
 | Area         | Topics                                          |
 | ------------ | ----------------------------------------------- |
-| Systems      | C, memory allocation, heap management, Valgrind |
+| Mobile & Front| Flutter, React, SPA architecture, TypeScript     |
 | Backend      | REST APIs, Laravel, .NET, authentication        |
-| Frontend     | React, TypeScript, SPA architecture             |
 | Databases    | MySQL, PostgreSQL, SQLite, data modeling        |
 | Architecture | OOP, polymorphism, separation of concerns       |
 | DevOps       | Docker, Docker Compose, CI/CD                   |
-| Testing      | Criterion, automated tests, code quality        |
 | Linux        | Fedora, CLI tools, development environments     |
 
 ---
 
 ## Featured Projects
 
-### MemAlloc
+### Exon
 
 <div align="center">
 
-[![MemAlloc](https://img.shields.io/badge/View%20Project-MemAlloc-181717?style=for-the-badge\&logo=github)](https://github.com/guiiireg/MemAlloc)
+[![Exon](https://img.shields.io/badge/View%20Project-Exon-181717?style=for-the-badge&logo=github)](https://github.com/Exoncode-stream/Exon)
 
 </div>
 
-A custom memory allocator written in C from scratch.
+A platform bringing together video content, Markdown articles, and external resources.
 
-`C` · `Make` · `Criterion` · `Valgrind`
+`Laravel 12` · `React 19` · `TypeScript` · `Vite 6` · `SQLite` · `Docker`
 
-* Custom implementations of `malloc`, `free`, `realloc`, and `calloc`
-* First-fit allocation strategy
-* Free-block splitting and merging
-* Heap defragmentation
-* Magic-number block integrity checks
-* Automated testing with Criterion
-* Memory analysis with Valgrind
-
-<details>
-<summary><b>Technical details</b></summary>
-
-The allocator manages its own heap and keeps track of allocated and free memory blocks.
-
-The project was mainly built to understand how dynamic memory allocation works instead of simply using the standard library implementations.
-
-</details>
-
----
-
-### php-e-commerce
-
-<div align="center">
-
-[![php-e-commerce](https://img.shields.io/badge/View%20Project-php--e--commerce-181717?style=for-the-badge\&logo=github)](https://github.com/guiiireg/php-e-commerce)
-
-</div>
-
-A full e-commerce application built with native PHP and MySQL.
-
-`PHP` · `MySQL` · `PDO` · `HTML/CSS`
-
-* User authentication
-* BCrypt password hashing
-* Persistent shopping carts
-* Virtual wallet
-* Stock management
-* Atomic database transactions
-* Role-based administration
-* Separation between business logic and presentation
+* React SPA connected to a Laravel REST API
+* JWT / cookie-based authentication and authorization
+* Staff Role-Based Access Control (RBAC)
+* Polymorphic comments and upvotes system
+* Markdown article reader modal
+* Containerized development environment with Docker Compose
 
 ---
 
@@ -162,61 +124,38 @@ A full e-commerce application built with native PHP and MySQL.
 
 <div align="center">
 
-[![CityDrive Manager](https://img.shields.io/badge/View%20Project-CityDrive%20Manager-181717?style=for-the-badge\&logo=github)](https://github.com/guiiireg/CityDrive-Manager)
+[![CityDrive Manager](https://img.shields.io/badge/View%20Project-CityDrive%20Manager-181717?style=for-the-badge&logo=github)](https://github.com/guiiireg/CityDrive-Manager)
 
 </div>
 
-A C# application for managing urban mobility and vehicle fleets.
+A C# console application for managing urban mobility and vehicle fleets.
 
 `C#` · `.NET` · `LINQ` · `JSON`
 
-* Object-oriented domain modeling
-* Abstract classes and interfaces
-* Vehicle polymorphism
-* Haversine distance calculations
-* Traffic simulation
-* LINQ filtering
-* JSON persistence
+* Object-oriented domain modeling (polymorphism, abstract base classes)
+* Interfaces for thermal, electric, and hybrid vehicles
+* Haversine distance calculations for Points of Interest
+* Traffic state simulation
+* LINQ filtering and search services
+* JSON data persistence
 
 ---
 
-### Exon
+### Mobile App API
 
 <div align="center">
 
-[![Exon](https://img.shields.io/badge/View%20Project-Exon-181717?style=for-the-badge\&logo=github)](https://github.com/Exoncode-stream/Exon)
+[![Mobile App API](https://img.shields.io/badge/View%20Project-Mobile%20App%20API-181717?style=for-the-badge&logo=github)](https://github.com/guiiireg/mobile-app-api)
 
 </div>
 
-A platform for bringing together video content, articles, and external resources.
+A mobile client application built with Flutter connecting to a backend REST API.
 
-`Laravel 12` · `React 19` · `TypeScript` · `Vite 6` · `SQLite` · `Docker`
+`Flutter` · `Dart` · `REST API`
 
-* React SPA with Laravel REST API
-* Authentication and authorization
-* Role-based access control
-* Polymorphic comments and upvotes
-* Markdown articles
-* Docker Compose development environment
-
----
-
-### ymma
-
-<div align="center">
-
-[![ymma](https://img.shields.io/badge/View%20Project-ymma-181717?style=for-the-badge\&logo=github)](https://github.com/guiiireg/ymma)
-
-</div>
-
-A full-stack application with separate backend and frontend modules.
-
-`Java` · `JavaScript` · `Docker Compose`
-
-* Dedicated backend API
-* Decoupled frontend
-* Multi-container development environment
-* API-driven architecture
+* Cross-platform mobile development with Flutter & Dart
+* HTTP API integration and asynchronous data fetching
+* Modular component architecture and state management
 
 ---
 
@@ -224,7 +163,7 @@ A full-stack application with separate backend and frontend modules.
 
 <div align="center">
 
-[![Code Quest](https://img.shields.io/badge/View%20Project-Code%20Quest-181717?style=for-the-badge\&logo=github)](https://github.com/guiiireg/code-quest)
+[![Code Quest](https://img.shields.io/badge/View%20Project-Code%20Quest-181717?style=for-the-badge&logo=github)](https://github.com/guiiireg/code-quest)
 
 </div>
 
@@ -232,24 +171,20 @@ A Java project focused on object-oriented programming, algorithms, and data stru
 
 `Java` · `OOP` · `Algorithms` · `Data Structures`
 
-* Object-oriented programming
-* Domain modeling
-* Data structures
-* Algorithmic problem solving
-* Programming challenges
+* Object-oriented programming principles
+* Domain modeling and structure design
+* Algorithmic problem solving and logic exercises
 
 ---
 
 ## Project Overview
 
-| Project                                                            | Main Stack        | Focus                   |
-| ------------------------------------------------------------------ | ----------------- | ----------------------- |
-| [MemAlloc](https://github.com/guiiireg/MemAlloc)                   | C                 | Memory management       |
-| [php-e-commerce](https://github.com/guiiireg/php-e-commerce)       | PHP / MySQL       | E-commerce              |
-| [CityDrive Manager](https://github.com/guiiireg/CityDrive-Manager) | C# / .NET         | OOP / Fleet management  |
-| [Exon](https://github.com/Exoncode-stream/Exon)                    | Laravel / React   | Full-stack web          |
-| [ymma](https://github.com/guiiireg/ymma)                           | Java / JavaScript | Full-stack architecture |
-| [Code Quest](https://github.com/guiiireg/code-quest)               | Java              | Algorithms / OOP        |
+| Project                                                            | Main Stack           | Focus                   |
+| ------------------------------------------------------------------ | -------------------- | ----------------------- |
+| [Exon](https://github.com/Exoncode-stream/Exon)                    | Laravel / React      | Full-stack web hub      |
+| [CityDrive Manager](https://github.com/guiiireg/CityDrive-Manager) | C# / .NET            | OOP / Fleet management  |
+| [Mobile App API](https://github.com/guiiireg/mobile-app-api)       | Flutter / Dart       | Mobile client & REST    |
+| [Code Quest](https://github.com/guiiireg/code-quest)               | Java                 | Algorithms / OOP        |
 
 ---
 
@@ -281,71 +216,17 @@ A Java project focused on object-oriented programming, algorithms, and data stru
 
 </div>
 
-The animation above is generated automatically with **GitHub Actions** from my contribution graph.
-
 ---
 
-## Coding Activity
+## Latest Videos & Content
 
 <div align="center">
 
-<a href="https://wakatime.com/@guiiireg">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=guiiireg&layout=compact&hide_border=true" alt="WakaTime statistics">
-
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-Development%20Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@exon9858)
 
 </div>
 
-> WakaTime statistics are only displayed when the WakaTime integration is configured for the account.
-
----
-
-## Latest Videos
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-Development%20Content-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@exon9858)
-
-</div>
-
-I share development projects, experiments, and parts of my learning process on YouTube.
-
-<!--
-This section can be automatically generated from the YouTube RSS feed
-using GitHub Actions.
--->
-
----
-
-## Contributors
-
-<div align="center">
-
-<!--
-This section can be generated automatically for individual repositories
-using GitHub Actions or a contributors service.
--->
-
-<a href="https://github.com/guiiireg?tab=followers">
-
-<img src="https://contrib.rocks/image?repo=guiiireg/Exon" alt="Contributors">
-
-</a>
-
-</div>
-
----
-
-## External Services
-
-| Service    | Status                                                                                                                 |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
-| GitHub     | ![GitHub](https://img.shields.io/badge/status-active-success?style=flat-square)                                        |
-| CI/CD      | ![CI](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white) |
-| Tests      | ![Tests](https://img.shields.io/badge/tests-automated-success?style=flat-square)                                       |
-| Coverage   | ![Coverage](https://img.shields.io/badge/coverage-CodeCov-F01F7A?style=flat-square\&logo=codecov\&logoColor=white)     |
-| Deployment | ![Deployment](https://img.shields.io/badge/deployment-automated-success?style=flat-square)                             |
+I share development projects, experiments, and parts of my learning process on my YouTube channel **[@exon9858](https://www.youtube.com/@exon9858)**.
 
 ---
 
@@ -358,57 +239,6 @@ using GitHub Actions or a contributors service.
 | [View my repositories](https://github.com/guiiireg?tab=repositories) | [Watch my videos](https://www.youtube.com/@exon9858) |
 
 </div>
-
----
-
-## More About Me
-
-<details>
-<summary><b>Development environment</b></summary>
-
-<br>
-
-* Operating system: Fedora Linux
-* Shell: Fish
-* Main development environment: Linux
-* Containerization: Docker / Docker Compose
-* Version control: Git / GitHub
-
-</details>
-
-<details>
-<summary><b>What I'm learning</b></summary>
-
-<br>
-
-* Full-stack development
-* Software architecture
-* C and memory management
-* Algorithms and data structures
-* Testing
-* DevOps and CI/CD
-* Linux and system programming
-
-</details>
-
-<details>
-<summary><b>README implementation</b></summary>
-
-<br>
-
-Some elements of this README are generated dynamically using external services or GitHub Actions.
-
-This includes:
-
-* GitHub contribution statistics
-* Contribution Snake
-* WakaTime statistics
-* Activity graphs
-* Contributor visualizations
-* CI/CD and coverage badges
-* External content feeds
-
-</details>
 
 ---
 
