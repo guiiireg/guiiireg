@@ -226,13 +226,13 @@ Cross-platform mobile application developed with **Flutter** and **Dart**, consu
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=guiiireg&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=guiiireg&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiiireg&layout=compact&hide_border=true&langs_count=8" alt="Most used languages">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guiiireg&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guiiireg&hide_border=true" alt="GitHub streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guiiireg&theme=dark&hide_border=true" alt="GitHub streak">
 
 </div>
 
