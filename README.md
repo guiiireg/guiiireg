@@ -236,24 +236,4 @@ Cross-platform mobile application developed with **Flutter** and **Dart**, consu
 
 </div>
 
----
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/guiiireg/guiiireg/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-
-</div>
-
----
-
-<div align="center">
-
-### Build it. Understand it. Improve it.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-guiiireg-181717?style=for-the-badge&logo=github)](https://github.com/guiiireg)
-
-</div>
