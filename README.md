@@ -110,6 +110,7 @@ I'm particularly interested in software architecture, system design, and buildin
 <div align="center">
 
 [![Exon](https://img.shields.io/badge/View%20Project-Exon-181717?style=for-the-badge&logo=github)](https://github.com/Exoncode-stream/Exon)
+[![Live Demo](https://img.shields.io/badge/Website-exon--ten.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://exon-ten.vercel.app/)
 
 </div>
 
