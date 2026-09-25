@@ -45,7 +45,8 @@
 ## GitHub Metrics
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Detailed GitHub Metrics for guiiireg" width="100%" />
+    <img src="./profile/stats.svg" alt="GitHub Stats" width="49%" />
+    <img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
 </p>
 
 ---
