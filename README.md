@@ -45,7 +45,7 @@
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/guiiireg?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&isocounter=1&languages=1&languages.details=bytes-size%2C%20percentage&config.timezone=Europe%2FParis" alt="Detailed GitHub Metrics for guiiireg" width="100%" />
+  <img src="github-metrics.svg" alt="Detailed GitHub Metrics for guiiireg" width="100%" />
 </p>
 
 ---
