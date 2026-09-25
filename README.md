@@ -45,8 +45,7 @@
 ## GitHub Metrics
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=guiiireg&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats card showing total contributions and commit stats" height="165" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiiireg&theme=tokyonight" alt="Contribution streak stats displaying current streak count" height="165" />
+  <img src="https://metrics.lecoq.io/guiiireg?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&isocounter=1&languages=1&languages.details=bytes-size%2C%20percentage&config.timezone=Europe%2FParis" alt="Detailed GitHub Metrics for guiiireg" width="100%" />
 </p>
 
 ---
