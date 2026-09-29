@@ -1,19 +1,21 @@
 # Hi there, I'm Guireg NAEL
 
 <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&width=435&lines=Web+Development+Student;Building+with+HTML%2C+CSS+%26+JavaScript;Learning+Docker+%26+Git+Workflows" alt="Typing animation displaying role as a web development student" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&width=435&lines=Web+Development+Student;Building+with+HTML%2C+CSS+%26+JavaScript;Programming+in+C;Learning+Docker+%26+Git+Workflows" alt="Typing animation displaying role as a web development student" />
 </a>
 
-> **Web Development Student**: Building clean, responsive web pages and learning containzerized workflows.
+> **Developer & Student**: Building clean web pages, programming in C, and learning containerized workflows.
 
 ---
 
 ## About Me
 
-- **Currently building**: [Exon](https://github.com/guiiireg/exon) - A responsive HTML5 semantic website for my YouTube community.
-- **Currently learning**: HTML5 Semantic, CSS3, Git and Docker.
+- **Currently building**:
+  - [pongsh](https://github.com/guiiireg/pongsh) - A custom UNIX shell implementation in C.
+  - [Exon](https://github.com/guiiireg/exon) - A responsive HTML5 semantic website for my YouTube community.
+- **Currently learning**: C, HTML5 Semantic, CSS3, Git and Docker.
 
-* **Ask me about**: HTML5 semantic structure, CSS layout, and Git workflows.
+* **Ask me about**: C programming, HTML5 semantic structure, CSS layout, and Git workflows.
 * **Outside code**: Sports (calisthenics, swimming) and Asian culture (light novels, manga, manhwa).
 
 ---
@@ -22,6 +24,7 @@
 
 ### Languages & Core
 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -36,9 +39,10 @@
 
 ## Projects
 
-| Project  | Description                                                                | Tech Stack           |            Repository            |
-| :------- | :------------------------------------------------------------------------- | :------------------- | :------------------------------: |
-| **Exon** | Responsive web page showcasing my YouTube content and who I am on internet | HTML5 Semantic, CSS3 | https://github.com/guiiireg/exon |
+| Project    | Description                                                                  | Tech Stack           |              Repository              |
+| :--------- | :--------------------------------------------------------------------------- | :------------------- | :----------------------------------: |
+| **pongsh** | Custom UNIX shell implementation with built-in commands and custom C library | C                    |  https://github.com/guiiireg/pongsh  |
+| **Exon**   | Responsive web page showcasing my YouTube content and who I am on internet   | HTML5 Semantic, CSS3 |   https://github.com/guiiireg/exon   |
 
 ---
 
