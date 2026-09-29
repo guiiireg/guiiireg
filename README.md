@@ -14,6 +14,10 @@
   - [pongsh](https://github.com/guiiireg/pongsh) - A custom UNIX shell implementation in C.
   - [Exon](https://github.com/guiiireg/exon) - A responsive HTML5 semantic website for my YouTube community.
 - **Currently learning**: C, HTML5 Semantic, CSS3, Git and Docker.
+- **Workflow & Productivity**:
+  - **Obsidian**: Note-taking and knowledge structuring.
+  - **NotebookLM**: Continuous learning and regular review.
+  - **Gemini (Antigravity)**: Unit test generation and development assistance.
 
 * **Ask me about**: C programming, HTML5 semantic structure, CSS layout, and Git workflows.
 * **Outside code**: Sports (calisthenics, swimming) and Asian culture (light novels, manga, manhwa).
@@ -29,11 +33,17 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Tools & Containerization
+### Tools & Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
+### Productivity & AI
+
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini (Antigravity)](https://img.shields.io/badge/Gemini_(Antigravity)-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
