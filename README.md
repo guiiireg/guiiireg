@@ -1,73 +1,45 @@
-# Hi there, I'm Guireg NAEL
+# Hi there
 
-<a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&width=435&lines=Web+Development+Student;Building+with+React+%26+TypeScript;Programming+in+C;Learning+Docker+%26+Git+Workflows" alt="Typing animation displaying role as a web development student" />
-</a>
+I'm Guireg, and 22 y.o !
 
-> **Developer & Student**: Building modern web applications with React & TypeScript, programming in C, and learning containerized workflows.
+I love making projects related to what I love in programming, mostly focused on game or web development.
 
----
+### I'm currently learning :
 
-## About Me
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Currently building**:
-  - [pongsh](https://github.com/guiiireg/pongsh) - A custom UNIX shell implementation in C.
-  - [Exon](https://github.com/guiiireg/exon) - A responsive web application built with React & TypeScript for my YouTube community.
-- **Currently learning**: React, TypeScript, C, Git and Docker.
-- **Workflow & Productivity**:
-  - **Obsidian**: Note-taking and knowledge structuring.
-  - **NotebookLM**: Continuous learning and regular review.
-  - **Gemini (Antigravity)**: Unit test generation and development assistance.
+### Here are the projects I'm working on :
 
-* **Ask me about**: React, TypeScript, C programming, and Git workflows.
-* **Outside code**: Sports (calisthenics, swimming) and Asian culture (light novels, manga, manhwa).
+- [Exon Bot](https://github.com/guiiireg/exon-bot)
+- [PongSH](https://github.com/guiiireg/pongsh)
+- [Exon](https://github.com/guiiireg/exon)
 
----
-
-## Tech Stack & Tools
-
-### Languages & Frameworks
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Tools & Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-
-### Productivity & AI
-
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
-![Gemini (Antigravity)](https://img.shields.io/badge/Gemini_(Antigravity)-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
----
-
-## Projects
-
-| Project    | Description                                                                  | Tech Stack          |              Repository              |
-| :--------- | :--------------------------------------------------------------------------- | :------------------ | :----------------------------------: |
-| **pongsh** | Custom UNIX shell implementation with built-in commands and custom C library | C                   |  https://github.com/guiiireg/pongsh  |
-| **Exon**   | Responsive web application showcasing my YouTube content and community      | React, TypeScript   |   https://github.com/guiiireg/exon   |
-
----
-
-## GitHub Metrics
+<details>
+<summary>GitHub Stats</summary>
+<br>
 
 <p align="center">
-    <img src="./profile/stats.svg" alt="GitHub Stats" width="49%" />
-    <img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guiiireg&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiiireg&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+</details>
 
-## Connect With Me
+<details>
+<summary>Recent Certifications</summary>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guireg-nael)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guiregnael.pro@gmail.com)
+<a href="https://www.freecodecamp.org/certification/TON_PSEUDO/responsive-web-design" target="_blank">
+  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Certification" />
+</a>
+</details>
+
+You can feel free to contact me at any time:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guireg-nael/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guiregnael.pro@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4E5D6C?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.guireg.fr)
