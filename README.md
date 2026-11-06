@@ -12,13 +12,32 @@ I'm a developer who loves building projects around **game and web development** 
 
 | Project | About |
 | --- | --- |
-| [**PongSH**](https://github.com/guiiireg/pongsh) | Reimplementing the C standard library from scratch (only `write`, `malloc` and `free` allowed) — the first milestone towards a complete shell. |
+| [**Exon**](https://github.com/guiiireg/exon) | One-page showcase site for a YouTube content creator, with a minimal Symfony micro-API (PHP 8.5) behind the contact form — 100% static front, no JS, CI on GitHub Actions. |
+| [**Code Quest**](https://github.com/guiiireg/code-quest) | Gamified RPG-style platform to learn web & software development (Angular 19 + Spring Boot 4.1 + PostgreSQL 16) — [live demo](https://code-quest-bv1.pages.dev). |
 | [**Exon Bot**](https://github.com/guiiireg/exon-bot) | A modular Discord bot with moderation features (clear, kick, …), organized as independent cogs. |
-| [**Exon**](https://github.com/guiiireg/exon) | <!-- TODO : ajoute une description d'une ligne, ex. "A modern web app built with React and …" --> |
+| [**PongSH**](https://github.com/guiiireg/pongsh) | Reimplementing the C standard library from scratch (`libmy` + `my_printf`, only `write`, `malloc` and `free` allowed) — the first milestone towards a complete shell. |
+| [**Portfolio**](https://github.com/guiiireg/portfolio) | My personal portfolio website (TypeScript) — [live](https://portfolio-eta-blue-47.vercel.app). |
+
+## Other projects (private)
+
+School and personal work, not publicly linkable:
+
+- **C / C++**: `libmy`, `mobile-app-api`, `mobile-project`
+- **PHP**: `exercism`, `php-e-commerce`
+- **Java**: `ymma`, `exon-discord`
+- **C#**: `CityDrive-Manager`
+- **Web**: `forum` (JavaScript), `kima` (JavaScript), `kima-website` (TypeScript), `refactoring` (Vue), `advanced-sql` (JavaScript), `test-portfolio` (HTML)
+- **Python**: `tp-python`, `python-2526`
+- **Game dev**: `platformer-godot`, `unity-b2-guireg-chlo-` (Unity / ShaderLab)
 
 ## Tech stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +61,5 @@ I'm a developer who loves building projects around **game and web development** 
 <a href="https://www.freecodecamp.org/certification/guiiireg/responsive-web-design" target="_blank">
   <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Certification" />
 </a>
-
-<!-- ⚠️ Vérifie que "guiiireg" est bien ton identifiant freeCodeCamp : ton lien actuel contient le placeholder "TON_PSEUDO" et est cassé. -->
 
 </details>
