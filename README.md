@@ -18,18 +18,6 @@ I'm a developer who loves building projects around **game and web development** 
 | [**PongSH**](https://github.com/guiiireg/pongsh) | Reimplementing the C standard library from scratch (`libmy` + `my_printf`, only `write`, `malloc` and `free` allowed) — the first milestone towards a complete shell. |
 | [**Portfolio**](https://github.com/guiiireg/portfolio) | My personal portfolio website (TypeScript) — [live](https://portfolio-eta-blue-47.vercel.app). |
 
-## Other projects (private)
-
-School and personal work, not publicly linkable:
-
-- **C / C++**: `libmy`, `mobile-app-api`, `mobile-project`
-- **PHP**: `exercism`, `php-e-commerce`
-- **Java**: `ymma`, `exon-discord`
-- **C#**: `CityDrive-Manager`
-- **Web**: `forum` (JavaScript), `kima` (JavaScript), `kima-website` (TypeScript), `refactoring` (Vue), `advanced-sql` (JavaScript), `test-portfolio` (HTML)
-- **Python**: `tp-python`, `python-2526`
-- **Game dev**: `platformer-godot`, `unity-b2-guireg-chlo-` (Unity / ShaderLab)
-
 ## Tech stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
